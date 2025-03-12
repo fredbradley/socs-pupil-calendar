@@ -5,7 +5,7 @@
     "require": {
         "php": "^8.3",
         "johngrogg/ics-parser": "^3.0",
-        "illuminate/support": "^10.0||^11.38",
+        "illuminate/support": "^10.0||^11.0||^12.0",
         "jakeasmith/http_build_url": "^1.0",
         "spatie/icalendar-generator": "^2.9"
     },
