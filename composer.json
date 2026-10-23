@@ -3,11 +3,10 @@
     "type": "project",
     "license": "MIT",
     "require": {
-        "php": "^8.3",
-        "johngrogg/ics-parser": "^3.0",
-        "illuminate/support": "^10.0||^11.0||^12.0",
-        "jakeasmith/http_build_url": "^1.0",
-        "spatie/icalendar-generator": "^2.9"
+        "php": "^8.5.12",
+        "johngrogg/ics-parser": "^3.6",
+        "illuminate/support": "^12.0||^13.0",
+        "spatie/icalendar-generator": "^3.3"
     },
     "autoload": {
         "psr-4": {
@@ -21,9 +20,9 @@
         }
     ],
     "require-dev": {
-        "laravel/pint": "^1.20",
-        "pestphp/pest": "^3.7",
-        "nunomaduro/collision": "^8.5"
+        "laravel/pint": "^1.32",
+        "pestphp/pest": "^5.3",
+        "nunomaduro/collision": "^8.9"
     },
     "config": {
         "allow-plugins": {
